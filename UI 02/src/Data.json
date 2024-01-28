@@ -1,0 +1,119 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms":3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description":"ClaxtonBird presents a 3-bed detached house in Eaton Rise, South Norwich. No onward chain, 3 ground floor reception rooms, kitchen, and shower room. First floor: 3 bedrooms, bathroom. Large garden, driveway, garage. Near Marston Marsh Nature Reserve, with local transport to City Centre. Requires updating.",
+      "location": "Townsend Road, Eaton Rise, Norwich, NR4",
+      "picture": "images/prop1pic1small.jpg",
+      "img1": "images/galleryImg1.jpg",
+      "img2": "images/galleryImg2.jpg",
+      "img3": "images/galleryImg3.jpg",
+      "img4": "images/galleryImg4.jpg",
+      "img5": "images/galleryImg5.jpg",
+      "img6": "images/galleryImg6.jpg",
+      "img7": "images/galleryImg7.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Periodic charm abounds in this well-proportioned house featuring sash windows, cornicing, and fireplaces. Elegant entrance, sitting room with gas fire, dining room with bay window, glass sliding doors to kitchen. Spacious basement with conversion potential.",
+      "location": "Newmarket Road, Norwich, Norfolk, NR2",
+      "picture": "images/prop2pic1small.jpg",
+      "img1": "images/galleryImg1.jpg",
+      "img2": "images/galleryImg2.jpg",
+      "img3": "images/galleryImg3.jpg",
+      "img4": "images/galleryImg4.jpg",
+      "img5": "images/galleryImg5.jpg",
+      "img6": "images/galleryImg6.jpg",
+      "img7": "images/galleryImg7.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "September",
+        "day": 15,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms":5,
+      "price": 900000,
+      "tenure": "Freehold",
+      "description":"Nestled in the heart of Edinburgh's historic Old Town, Wallace & Co. offers a charming 2-bedroom flat. Original features, open-plan living, and modern kitchen. Within walking distance to the Royal Mile and Edinburgh Castle.",
+      "location": "Park Lane, Manchester, NR3",
+      "picture": "images/prop3pic1small.jpg",
+      "img1": "images/galleryImg1.jpg",
+      "img2": "images/galleryImg2.jpg",
+      "img3": "images/galleryImg3.jpg",
+      "img4": "images/galleryImg4.jpg",
+      "img5": "images/galleryImg5.jpg",
+      "img6": "images/galleryImg6.jpg",
+      "img7": "images/galleryImg7.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "November",
+        "day": 23,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms":2,
+      "price": 400000,
+      "tenure": "Freehold",
+      "description":"Introducing a stylish 2-bedroom flat in the heart of London's Kensington. Modern open-plan living, en-suite bathrooms, and a private balcony with city views. Close proximity to Hyde Park, high-end shopping, and excellent transport links.",
+      "location": "Victoria Road, Belfast, NR1",
+      "picture": "images/prop4pic1small.jpg",
+      "img1": "images/galleryImg1.jpg",
+      "img2": "images/galleryImg2.jpg",
+      "img3": "images/galleryImg3.jpg",
+      "img4": "images/galleryImg4.jpg",
+      "img5": "images/galleryImg5.jpg",
+      "img6": "images/galleryImg6.jpg",
+      "img7": "images/galleryImg7.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "January",
+        "day": 4,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms":6,
+      "price": 1000000,
+      "tenure": "Freehold",
+      "description":"ClaxtonBird proudly introduces a spacious 6-bedroom residence situated in the heart of Market Square, Cambridge. This impressive detached house offers a seamless blend of classic charm and modern convenience, providing an ideal living space for families or those seeking generous accommodation.",
+      "location": "Market Square, Cambridge, NR4",
+      "picture": "images/prop5pic1small.jpg",
+      "img1": "images/galleryImg1.jpg",
+      "img2": "images/galleryImg2.jpg",
+      "img3": "images/galleryImg3.jpg",
+      "img4": "images/galleryImg4.jpg",
+      "img5": "images/galleryImg5.jpg",
+      "img6": "images/galleryImg6.jpg",
+      "img7": "images/galleryImg7.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "March",
+        "day": 1,
+        "year": 2023
+      }
+    }
+  ]
+}
